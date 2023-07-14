@@ -1,0 +1,83 @@
+.home-page {
+    img {
+        position: absolute;
+        left: 600px;
+        border-radius: 25%;
+        border-color: #333;
+        border-style: solid;
+    }
+    .text-zone {
+        position: absolute;
+        left: 10%;
+        top: 20%;
+        transform: translateY(-50%);
+        width: 40%;
+        max-height: 90%;
+    }
+
+    h1 {
+        color: #fff;
+        font-size: 53px;
+        font-family: impact;
+        font-weight: 400;
+
+        &:before {
+            content: '<h1>';
+            font-family: 'La Belle Aurore';
+            color: #48f006;
+            font-size: 18px;
+            position: absolute;
+            margin-top: -40px;
+            left: 15px;
+            opacity: 0.6;
+        }
+
+        &:after {
+            content: '<h1 />';
+            font-family: 'La Belle Aurore';
+            color: #48f006;
+            font-size: 18px;
+            position: absolute;
+            margin-top: 18px;
+            margin-left: 20px;
+            animation: fadeIn 1s 1.7s backwards;
+            opacity: 0.6;
+        }
+
+        // If I want to creat a Z logo
+        // img {
+        //     width: 32px;
+        // }
+
+    }
+}
+
+h2 {
+    color: #8d8d8d;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 11px;
+    font-family: impact;
+    letter-spacing: 3px;
+    animation: fadeIn 1s 1.8s backwards;
+}
+
+.flat-button {
+    color: #48f006;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-family: impact;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid #48f006;
+    margin-top: 25px;
+    float: left;
+    animation: fadeIn 1s 1.8s backwards;
+    white-space: nowrap;
+
+    &:hover {
+        background:#48f006;
+        color: #333;
+    }
+}

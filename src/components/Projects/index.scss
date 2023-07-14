@@ -1,0 +1,35 @@
+.text-zone {
+    margin-top: 300px; /* Adjust the value as needed */
+    // Other existing styles...
+}
+
+.card {
+    position: relative; /* Add position property */
+
+    p {
+        font-size: 15px;
+        color: #f5f1f1;
+    }
+
+    button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .projVideo {
+        margin-top: 30px;
+        width: 250px;
+        height: 120px;
+        display: block;
+        position: relative;
+        z-index: 9999;
+    }
+}
+
+// .projImg {
+//     width: 100px;
+//     height: 100px;
+//     display: block;
+//     position: relative;
+//     z-index: 9999;
+// }
