@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ZmCoder2.github.io/portfolio",
+  "homepage": "https://github.com/Taster101/Portfolio",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.22.5",
