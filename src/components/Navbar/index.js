@@ -31,12 +31,12 @@ const Navbar = () => (
     </nav>
     <ul>
         <li>
-            <a target="_blank" rel='noreferrer' href='https://www.linkedin.com/in/zack-miller-813042186/'>
+            <a target="_blank" rel='noreferrer' href='https://www.linkedin.com/in/davonta-henderson-823045138/'>
                 <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" className="anchor-icon" />
             </a>
         </li>
         <li>
-            <a target="_blank" rel='noreferrer' href='https://github.com/ZmCoder2'>
+            <a target="_blank" rel='noreferrer' href='https://github.com/Taster101'>
                 <FontAwesomeIcon icon={faGithub} color="#4d4d4e" className="anchor-icon" />
             </a>
         </li>

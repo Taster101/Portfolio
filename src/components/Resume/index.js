@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Loader from 'react-loaders';
 import AnimatedCharacters from '../AnimatedCharacters';
-import resumeImage from '../../assets/fonts/Davonta Henderson Resume software.docx';
+import resumeImage from '../../assets/9854f172b4f346ace716af6feddb4fba-0.jpeg';
 import './index.scss';
 
 const Resume = () => {

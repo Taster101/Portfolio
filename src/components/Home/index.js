@@ -5,12 +5,12 @@ import Loader from 'react-loaders'
 // import Logo from './Logo'
 import AnimatedCharacters from '../AnimatedCharacters';
 import './index.scss'
-import IMG_0932 from '../../assets/IMG_0932.HEIC'
+import IMG_0932 from '../../assets/new.jpg'
 
 
 const Home = () => {
     const [characterClass ] = useState('text-animate')
-    const nameArray = [ ' ','Z', 'a', 'c', 'k', ' ', 'M', 'i', 'l', 'l', 'e', 'r']
+    const nameArray = [ ' ','D', 'a', 'v', 'o', 'n','t','a',' ', 'H', 'e', 'n', 'd', 'e', 'r' ,'s','o','n']
     const titleArray = ['S', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ','E', 'n', 'g', 'i', 'n', 'e', 'e', 'r']
 
     // WHY WONT THIS WORK!?!?!
@@ -23,7 +23,7 @@ const Home = () => {
     return (
         <>
         <div className="container home-page">
-            <img src={IMG_0932}></img>
+            <img style={{ width: '500px' , height: '300px'}} src={IMG_0932}></img>
             <div className="text-zone">
                 <h1>
                     <span className={characterClass}>H</span>

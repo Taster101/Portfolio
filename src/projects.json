@@ -1,23 +1,24 @@
 [
-    {
-        "name": "Logo Generator",
-        "video": "https://www.loom.com/share/dc4d481f717d43138f9019c61d26d5e5Links to an external site.",
-        "description": "This is a backend application for an E-commerce webiste that was built using JavaScript, Node.js, Express.js API, Sequelize, and MySQL. This application was created so that a user within a company can compete with other e-commerce companies.",
-        "github": "https://github.com/Taster101/SVG-Logo-Maker",
-        "live": "https://drive.google.com/file/d/1ve4eVm4CU78A0XTpsOHKquJoafX7Jqjv/view"
-    },
-    {
-        "name": "Password Generator",
-        "video": "https://drive.google.com/file/d/17j-HO6D28D1hrhl1zgNRVLduRq5elAYK/view?usp=sharing",
-        "description": "This application allows users to be able to generate a logo with three characters, three different options of shapes, and be able to choose the color of the text and shape by just answering four questions with node.js.",
-        "github": "https://github.com/Taster101/Password-Generator-app",
-        "live": "https://taster101.github.io/Password-Generator-app/"
-    },
-    {
-        "name": "Social Network API",
-        "video": "https://drive.google.com/file/d/1R2r-PxLQ7gS7JN4cQpChCUggDXIwJyLS/view?usp=sharing",
-        "description": "This is a and API for a social network that uses a NoSQL database. So a user's website can handle large amounts of unstructured data.",
-        "github": "https://github.com/ZmCoder2/social-network-api",
-        "live": "https://drive.google.com/file/d/1-YL3hZm5Ky0CwpVxWOVsw8D5Rs4k_ZNU/view"
-    }
+    
+        {
+            "name": "Backend E-commerce Application",
+            "video": "https://drive.google.com/file/d/1ve4eVm4CU78A0XTpsOHKquJoafX7Jqjv/view?usp=sharing",
+            "description": "This is a backend application for an E-commerce webiste that was built using JavaScript, Node.js, Express.js API, Sequelize, and MySQL. This application was created so that a user within a company can compete with other e-commerce companies.",
+            "github": "https://github.com/Taster101/E-commerce-BackEnd",
+            "live": "https://drive.google.com/file/d/1ve4eVm4CU78A0XTpsOHKquJoafX7Jqjv/view"
+        },
+        {
+            "name": "Logo Generator",
+            "video": "https://drive.google.com/file/d/17j-HO6D28D1hrhl1zgNRVLduRq5elAYK/view?usp=sharing",
+            "description": "This application allows users to be able to generate a logo with three characters, three different options of shapes, and be able to choose the color of the text and shape by just answering four questions with node.js.",
+            "github": "https://github.com/Taster101/SVG-Logo-Maker",
+            "live": "https://drive.google.com/file/d/17j-HO6D28D1hrhl1zgNRVLduRq5elAYK/view"
+        },
+        {
+            "name": "Social Network API",
+            "video": "https://drive.google.com/file/d/1R2r-PxLQ7gS7JN4cQpChCUggDXIwJyLS/view?usp=sharing",
+            "description": "This is a and API for a social network that uses a NoSQL database. So a user's website can handle large amounts of unstructured data.",
+            "github": "https://github.com/Taster101/Social-Network",
+            "live": "https://drive.google.com/file/d/1-YL3hZm5Ky0CwpVxWOVsw8D5Rs4k_ZNU/view"
+        }
 ]
