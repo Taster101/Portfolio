@@ -5,7 +5,7 @@ import Loader from 'react-loaders'
 // import Logo from './Logo'
 import AnimatedCharacters from '../AnimatedCharacters';
 import './index.scss'
-import IMG_0932 from '../../assets/new.jpg'
+import IMG_0932 from '../../assets/JJMC5730.jpg'
 
 
 const Home = () => {

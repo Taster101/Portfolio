@@ -2,11 +2,10 @@
     
         {
             "name": "Backend E-commerce Application",
-            "video": "https://drive.google.com/file/d/1ve4eVm4CU78A0XTpsOHKquJoafX7Jqjv/view?usp=sharing",
-            "description": "This is a backend application for an E-commerce webiste that was built using JavaScript, Node.js, Express.js API, Sequelize, and MySQL. This application was created so that a user within a company can compete with other e-commerce companies.",
-            "github": "https://github.com/Taster101/E-commerce-BackEnd",
-            "live": "https://drive.google.com/file/d/1ve4eVm4CU78A0XTpsOHKquJoafX7Jqjv/view"
-        },
+            "video": "https://drive.google.com/file/d/1nmwIhZzNYUGBG6480WfTY6E3vLG1g2_y/view?usp=sharing",
+            "description": "This is a front-end  application for a Quiz app that was built using JavaScript.",
+            "github": "https://github.com/Taster101/Code-Quizd",
+            "live" : "https://drive.google.com/file/d/1nmwIhZzNYUGBG6480WfTY6E3vLG1g2_y/view "       },
         {
             "name": "Logo Generator",
             "video": "https://drive.google.com/file/d/17j-HO6D28D1hrhl1zgNRVLduRq5elAYK/view?usp=sharing",

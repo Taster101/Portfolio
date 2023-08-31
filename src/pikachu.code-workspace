@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "pikachu",
+			"path": "../../../pikachu"
+		},
+		{
+			"name": "public",
+			"path": "../public"
+		},
+		{
+			"name": "src",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
